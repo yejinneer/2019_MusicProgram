@@ -1,2 +1,2 @@
 # 2019_MusicProgram
-{% include 02.html id="Gw3HIezNNiY" %}  
+[![예제](https://www.youtube.com/watch?v=Gw3HIezNNiY/0.jpg)](https://www.youtube.com/watch?v=Gw3HIezNNiY?t=0s) 
